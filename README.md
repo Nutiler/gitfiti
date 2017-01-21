@@ -21,6 +21,7 @@ These sprites were created by [Nutiler](https://github.com/nutiler). :)
 
 ###Pixel Art:
 ![alt text](https://raw.github.com/gelstudios/gitfiti/master/pixels-large.png "pixel art")
+
 Included "art" from left to right: kitty, oneup, oneup2, hackerschool, octocat, octocat2.
 
 ###Usage:
