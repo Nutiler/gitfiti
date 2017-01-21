@@ -11,10 +11,16 @@ How?  `gitfiti.py` generates a bash script: `gitfiti.sh` that makes commits with
 
 Since this is likely to clobber repo's history, I highly recommend that you create a _new_ github repo when using gitfiti. Also, the generated bash script assumes you are using public-key authentication with git.
 
+###Minecraft Mobs:
+![alt text](https://i.gyazo.com/0586589ea292d17a4d9aecd151e2b1cd.png "minecraft mobs")
+Included "mobs" from left to right: enderman, wither, skeleton, creeper, zombie, slime.
+If you want to get all of the mobs use the one called: minecraftmobs.
+
+These sprites were created by [Nutiler](https://github.com/nutiler). :)
 
 ###Pixel Art:
 ![alt text](https://raw.github.com/gelstudios/gitfiti/master/pixels-large.png "pixel art")  
-Included "art" from left to right: kitty, oneup, oneup2, hackerschool, octocat, octocat2
+Included "art" from left to right: kitty, oneup, oneup2, hackerschool, octocat, octocat2.
 
 ###Usage:
 1. Create a new github repo to store your handiwork.
